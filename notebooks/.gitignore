@@ -1,0 +1,5 @@
+*
+
+# Except this file
+!.gitignore
+!timelapse_projection2019.ipynb

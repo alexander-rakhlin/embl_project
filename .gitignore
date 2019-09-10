@@ -1,0 +1,22 @@
+.ipynb_checkpoints/
+.idea/
+.git/
+__pycache__/
+checkpoints/
+colocalization/
+cyt3-windows/
+data/
+doc/
+images/
+logs/
+paper/
+tests/
+cyt3-windows/
+word2vec_pixel/
+
+corr_tbl.pkl
+tifffile.py
+rootkey.csv
+
+# Except this file
+!.gitignore
