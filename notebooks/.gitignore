@@ -1,7 +1,8 @@
+__init__.py
+.gitignore
 *
 
 # Except this file
-!.gitignore
 !timelapse_projection2019.ipynb
 !well.ipynb
 !notebook_functions.py
@@ -9,3 +10,4 @@
 !spatial-time-correlation-2.ipynb
 !spatial-time-correlation-3.ipynb
 !intensities-embedding.ipynb
+!virtual classes.ipynb
